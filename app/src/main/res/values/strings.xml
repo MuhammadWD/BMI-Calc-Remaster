@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heightText">Enter your height</string>
+    <string name="heightWeight">Enter your weight</string>
+    <string name="submitButton">Show result</string>
+
+    <string name="info">You are very thin</string>
+    <string name="normal">You are normal</string>
+    <string name="warning">You are overweight</string>
+    <string name="danger">You are very-very fat!</string>
+</resources>
